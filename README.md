@@ -110,12 +110,13 @@
             <p class="question-text">¿Será que hoy me baño?</p>
             <div class="flex flex-col space-y-4">
                 <button class="answer-button" data-answer="no">1. no</button>
-                <button class="answer-button" data-answer="no-princesa">2. no, mi princesa linda</button>
-                <button class="answer-button" data-answer="no-apestosa">3. no, mi chiquita… así apestosa te amo</button>
+                <button class="answer-button" data-answer="no-princesa">2. no, mi princesa bonita</button>
+                <button class="answer-button" data-answer="no-apestosa">3. no, mi chiquita… así apestosa te amo mucho</button>
+                  <button class="answer-button" data-answer="mijita">4. mijita... hueles riquísimo, ni necesario es</button>
             </div>
         </div>
         <div id="messageOverlay" class="message-overlay">
-            TE AMO MI NEGRO, FUTURO ESPOSO, PAPÁ DE MIS BEBES, MI CHIQUITO. GRACIAS POR AMARME ASÍ
+            GRACIAS PAPITO JOSS...GRACIAS POR AMARME ASÍ COCHINITA
         </div>
     </div>
 
